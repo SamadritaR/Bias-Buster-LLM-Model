@@ -1,16 +1,5 @@
 <a id="readme-top"></a>
 
-<div align="center">
-  <h1 align="center">Bias Detection and Mitigation in Large Language Models.</h1>
-  <p align="center">
-    59000 - Natural Language Processing - Course Project
-    <br />
-    <a href="https://github.com/ChiragBellara/Bias_Detection_And_Mitigation_In_LLMs/blob/main/Outcomes/Bias_and_Mitigation_in_LLMs.pdf"><strong>Read the research paper.</strong></a>
-    <br />
-    <br />
-  </p>
-</div>
-
 
 ## Technologies Used
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
